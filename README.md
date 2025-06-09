@@ -1,16 +1,19 @@
-## Hi there 👋
+<!-- Banner estilo gamer -->
+<p align="center">
+  <img src="https://i.imgur.com/zYkWc1F.gif" width="600" alt="Gamer Code Banner">
+</p>
 
-<!--
-**Walthergl66/Walthergl66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🎮 GutierrezDev - El Código es mi Juego ⚔️</h1>
+<p align="center">
+  <b>💻 Backend Developer | 🕹️ Gamer de corazón | 🚀 Aprendiendo sin freno</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👾 Sobre mí
+
+```bash
+> Soy un programador backend con alma de gamer.
+> Codeo como si estuviera en ranked. Cada línea es un headshot.
+> Lenguaje favorito: Java ⚙️ con Spring Boot 🛠️
+> Apasionado por la IA, las APIs REST, la arquitectura limpia y los retos tipo boss final.
