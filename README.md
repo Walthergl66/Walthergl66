@@ -5,10 +5,10 @@
 
  ```python
   class WhoAmI:
-    user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
+    user = 'Walthergl66'
+	current_edu = "Software"
+    currently_learning = "Java, TypeScript"
+    fun_fact = "I Love Play Soccer"
 	hobbies = [
 				'Music',
                          'Chilling',
@@ -17,7 +17,7 @@
 			]
 	
 	def getCity():
-		return Chhattisgarh_India()
+		return "Puerto Lopez - Ecuador"()
 	
 	def Ambitions():
 		BecomeSoftwareEngineer()
