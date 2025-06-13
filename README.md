@@ -42,7 +42,8 @@
     </td>
   </tr>
 </table>
-	## technologies I master
+
+##                                              technologies I master
 
 <div align="center">
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white"></a>
