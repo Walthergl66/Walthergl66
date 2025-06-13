@@ -25,24 +25,6 @@
 	
  ```
 
- 
-## I'll tell you more about myself - Github Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jaydeep-yadav&show_icons=true&count_private=true&theme=github_dark" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo" alt="GitHub Streak">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-yadav&layout=compact&theme=github_dark" alt="Top Languages">
-    </td>
-  </tr>
-</table>
-
 ##                                              technologies I master
 
 <div align="center">
