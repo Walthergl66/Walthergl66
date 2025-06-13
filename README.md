@@ -27,8 +27,6 @@
 
  
 ## I'll tell you more about myself - Github Stats
-
-<!-- GitHub Stats + Streak + Languages -->
 <table>
   <tr>
     <td>
@@ -45,8 +43,8 @@
   </tr>
 </table>
 
-<!-- Technology Badges -->
 <div align="center">
+	# technologies I master
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white"></a>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -57,10 +55,12 @@
 
 
 ## Frameworks and Libraries
-<p>
-   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
-   <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
-</p>
+<div align="center">
+  <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"></a>
+  <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white"></a>
+  <a href="#"><img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-E7282D?logo=typeorm&logoColor=white"></a>
+</div>
 
 ## Operating Systems
 <p>
