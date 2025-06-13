@@ -64,28 +64,29 @@
 </div>
 
 ## Operating Systems
-<div align+"center">
+<div align="center">
   <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
   <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
   <a href="#"><img alt="macOS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white"></a>
-
 </div>
 
 ## Browsers
-<p>
+<div align="center">
 	<a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
 	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
 	<a href="#"><img alt="Safari" src="https://img.shields.io/badge/Safari-FF1B2D?logo=Safari&logoColor=white"></a>
 	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
-</p>
+</div>
 
 ## Databases and Cloud hosting
 
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Xampp%20-%23430098.svg?logo=xampp&logoColor=white"></a>
-</p> 
+<div align="center">
+  <a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?logo=xampp&logoColor=white"></a>
+  <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white"></a>
+  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
+</div>
+
 
 ## Software and Tools
 <p>
