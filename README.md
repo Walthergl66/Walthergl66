@@ -1,4 +1,10 @@
-
+<h1 align='center'>
+  <br>
+  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='https://i.ibb.co/XYSwTqV/kaguya-modified.png' alt='Sogi' width='200'></a>
+  <br>
+  AKAMNEX
+  <br>
+</h1>
 
 ```
 
@@ -166,13 +172,6 @@ hi, im jd 🔮.
 Last Edited on: 03/09/2021
 
 
-<h1 align='center'>
-  <br>
-  <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src='https://i.ibb.co/XYSwTqV/kaguya-modified.png' alt='Sogi' width='200'></a>
-  <br>
-  Sogi
-  <br>
-</h1>
 
 <h4 align='center'>There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle. - <a href='https://duckduckgo.com/?q=Albert+Einstein' target='_blank'>Albert Einstein</a>.</h4>
 
