@@ -111,18 +111,7 @@
     </tr>
 </table>
 
-  <!-- Socials -->
-##
-<p align="right">
-  <span>
-    <a target="_blank"><img src="https://komarev.com/ghpvc/?username=dante-barreda&style=for-the-badge" alt="Profile views" height="25" /></a>
-    <a href="mailto:examplem@gmail.com?subject=Hello%20UserName"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
-    <a href="https://your-portfolio-website.com" target="_blank"><img src="https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logo=pfsense&logoColor=white&logoSize=30" alt="Portfolio" height="25" /></a>
-    <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" /></a>
-  </span>
-</p>
-
-
+ 
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supravatm&label=Profile%20views&color=0e75b6&style=flat" alt="Supravat-mondal" /> 
