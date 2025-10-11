@@ -23,6 +23,48 @@
 
 ```
 
+  <!-- Credits -->
+------
+Credit: [dante-barreda](https://github.com/dante-barreda)
+
+Last Edited on: 25/07/2024
+## Who am I?
+
+ ```python
+  class WhoAmI:
+    user = 'Jaydeep Yadav'
+ current_edu = "CSIT"
+    currently_learning = "Javascript"
+    fun_fact = "I hate Chillies"
+ hobbies = [
+    'Music',
+                         'Chilling',
+     'Gaming',
+    'Sci-Fi Movies'
+   ]
+ 
+ def getCity():
+  return Chhattisgarh_India()
+ 
+ def Ambitions():
+  BecomeSoftwareEngineer()
+  FinishMyProjects()
+ 
+ ``` <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+
+```diff
+hi, im jd 🔮.
+
+@@advanced programming student.@@
++ living in tel aviv, israel.
+- 17 years old
+! program engineer, web developer and shitposter
+# 📖 reverse engineering, computer science
+```
+------
+[jewdev](https://github.com/jewdev)
+Last Edited on: 03/09/2021
+
 
 
 <img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
@@ -93,50 +135,6 @@
     <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" /></a>
   </span>
 </p>
-
-  <!-- Credits -->
-------
-Credit: [dante-barreda](https://github.com/dante-barreda)
-
-Last Edited on: 25/07/2024
-## Who am I?
-
- ```python
-  class WhoAmI:
-    user = 'Jaydeep Yadav'
- current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
- hobbies = [
-    'Music',
-                         'Chilling',
-     'Gaming',
-    'Sci-Fi Movies'
-   ]
- 
- def getCity():
-  return Chhattisgarh_India()
- 
- def Ambitions():
-  BecomeSoftwareEngineer()
-  FinishMyProjects()
- 
- ``` <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
-
-```diff
-hi, im jd 🔮.
-
-@@advanced programming student.@@
-+ living in tel aviv, israel.
-- 17 years old
-! program engineer, web developer and shitposter
-# 📖 reverse engineering, computer science
-```
-------
-[jewdev](https://github.com/jewdev)
-Last Edited on: 03/09/2021
-
-
 
 <h4 align='center'>There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle. - <a href='https://duckduckgo.com/?q=Albert+Einstein' target='_blank'>Albert Einstein</a>.</h4>
 
