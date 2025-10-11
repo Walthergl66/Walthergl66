@@ -25,14 +25,14 @@
 
 ------
 
-## Hi(?
+## HI?
 
- python
+ ```python
   class WhoAmI:
     user = 'Akamnex666'
 	current_edu = "Software"
     currently_learning = "TypeScript"
-    fun_fact = "I hate men"
+    fun_fact = "I Hate Men"
 	hobbies = [
 				'Music',
                          'Painting',
@@ -47,9 +47,9 @@
 		BecomeSoftwareEngineer()
 		FinishMyProjects()
 	
- 
+ ```
 
-##
+##  
 
 
 
