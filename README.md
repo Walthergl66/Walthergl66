@@ -1,12 +1,4 @@
 
-:musical_note: I'm currently listening:
-
-[![My Spotify](https://spotify-currently-playing-track.vercel.app/api)](https://github.com/regchiu/spotify-currently-playing-track)
-
-<!---
-preccrep/preccrep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ```
 
@@ -25,14 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 ```
 
-
-<p align="center">
-  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
-  <br><br>
-  <samp>
-    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Vimal kumar Web designer and developer working on <a href="https://github.com/letskhabar">@Letskhabar :octocat:</a> to support open source. Student at IIIT Ranchi :india:
-  </samp>
-</p>
 
 
 <img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
@@ -426,4 +410,13 @@ Last Edited on: 03/09/2021
 <img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
 
 <br><br>
+
+:musical_note: I'm currently listening:
+
+[![My Spotify](https://spotify-currently-playing-track.vercel.app/api)](https://github.com/regchiu/spotify-currently-playing-track)
+
+<!---
+preccrep/preccrep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
