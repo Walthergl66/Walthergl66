@@ -24,6 +24,9 @@
 		FinishMyProjects()
 	
  ```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&size=20&color=FFFFFF&background=000000&center=true&vCenter=true&width=490&lines=%3E+ELISA<3.">
+</p>
 
 ##                                              technologies I master
 
