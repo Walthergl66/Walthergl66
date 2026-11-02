@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1220,100:1D4ED8&text=Walther%20Guti%C3%A9rrez&fontColor=FFFFFF&fontSize=50&fontAlignY=40&desc=Desarrollador%20Backend%20y%20Full%20Stack&descSize=22&descAlignY=65" width="100%" alt="Walther Gutierrez, Desarrollador Backend y Full Stack" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1220,100:1D4ED8&text=Walther%20Gutierrez&fontColor=FFFFFF&fontSize=50&fontAlignY=40&desc=Desarrollador%20Backend%20y%20Full%20Stack&descSize=22&descAlignY=65" width="100%" alt="Walther Gutierrez, Desarrollador Backend y Full Stack" />
 
 ### Backend · Full Stack · IA aplicada
 
